@@ -1,13 +1,22 @@
-const account_Id = 144553
-let accountemail="iarpitsharmaa@gmail.com"
-var accountpassword="123"
-accountcity ="Jaipur"
+const namee="Arpit";
 
-//account_Id=2  //not allowed
-console.log(account_Id);
+let age=24;
+let name="Arpit";
+name="aRPIT"
+console.log(name)
+console.log(age);
+isfollow =true;
+console.log(isfollow);
+console.log(namee);
 
-accountemail="hc@gmail.com"
-accountpassword="2323"
-accountcity="Delhi"
 
-console.log([account_Id,accountemail,accountpassword,accountcity])
+//Practie question
+const product={
+    name:"Parker",
+    colour:"Black",
+    Price:270,
+    Rating:4
+};
+console.log(product);
+
+
